@@ -1,0 +1,19 @@
+# build output
+target/
+_build/
+deps/
+zig-out/
+.zig-cache/
+zig-cache/
+bin/
+obj/
+.build/
+*.o
+*.hi
+*.beam
+*.class
+*.jar
+*.fasl
+*.cm[iox]
+*.exe
+out/
