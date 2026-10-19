@@ -1,0 +1,8 @@
+{
+    "name": "collatz",
+    "description": "Параллельная проверка гипотезы Коллатца",
+    "targetType": "executable",
+    "buildTypes": {
+        "release": { "buildOptions": ["releaseMode", "optimize", "inline"] }
+    }
+}
